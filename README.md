@@ -1,7 +1,7 @@
 # Analysis of crime statistics in San Francisco, CA <br>(2018 - Present)
 ##### The University of Denver - MS Data Science <br>COMP 4447 - Data Science Tools I <br>Fall Quarter 2022
 
-<em>Research question: Can we gain insights into the 'where', 'when', and 'why' of crime incidents in SF?</em>
+Research question:<em> Can we gain insights into the 'where', 'when', and 'what' of crime incidents in SF?</em>
 
 ---  
 
@@ -9,5 +9,6 @@ Utilizing the datasf.org's Open Data collection, we start with a large dataset c
 [Date Source](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783)<br/>
 The police reports have been anonymized by the data provider, and reports pertaining to juveniles have been redacted.  Reports filed with law enforcement agencies outside of SFPD are not included.  See more details about the original dataset [here](https://datasf.gitbook.io/datasf-dataset-explainers/sfpd-incident-report-2018-to-present).<br/>  
 
-<small> \*This dataset was downloaded Sep/Oct 2022 </small>
+<sub><sup>\*This dataset was downloaded Sep/Oct 2022</sup></sub>
+  
 ----
